@@ -87,6 +87,10 @@ button {
 /*******************
 * Layout
 *******************/
+.movie-two {
+  width:690px;
+}
+  
 .section {
   padding-top: 30px;
   padding-bottom: 30px;
